@@ -59,7 +59,7 @@ Needless to say, exams are going to look different as a consequence of remote in
 
 It will be challenging to balance respecting your privacy and guarding against academic dishonesty. Nevertheless, I pledge to respect your privacy and I ask that in return you promise to comply with the rules. I will ask each of you to sign a statement at the end of each exam stating that you did not collaborate with others or use prohibited resources while taking the exam.
 
-There will be an in-class midterm (currently scheduled for April 9), and a final exam during the scheduled slot during exam week. You must take each exam at the scheduled time unless you are ill or have an unexpected family emergency (and have a note from a doctor, etc.)
+There will be an in-class midterm (currently TBD), and a final exam during the scheduled slot during exam week. You must take each exam at the scheduled time unless you are ill or have an unexpected family emergency (and have a note from a doctor, etc.)
 
 ## Programming assignments
 
@@ -114,6 +114,6 @@ Academic integrity is a requirement for this course (and, indeed, for your entir
 
 You’re encouraged to discuss class material and concepts with others, and you may discuss general approaches to programming assignments. These discussions may not include specific details, but instead should focus on how to approach the project. You may not look at or discuss someone else’s design document or code, and you may not show your de- sign document or code to anyone else (other than the course staff). All collaboration must be whiteboard or discussion only. You may take handwritten notes from these discussions, but you may not mechanically record your discussion - no typing on a keyboard, photos, video, or audio recording during the discussion. (Students with DRC accommodations should discuss note-taking with me at the start of the quarter.)
 
-By taking this class, you agree to abide by the Personal Responsibility Document that’s available on the course Canvas page. You must submit a signed copy of this document on Canvas, by October 4 (Friday) at 5 PM. You must turn in the signed Personal Responsibility Document before submitting any assignment to be graded.
+By taking this class, you agree to abide by the Personal Responsibility Document that’s available on the course Canvas page. You must submit a signed copy of this document on Canvas, this due date will be announced soon. You must turn in the signed Personal Responsibility Document before submitting any assignment to be graded.
 
 We take academic integrity very seriously, and report all violations of academic integrity to the School of Engineering and to your college Provost. If you violate academic integrity, you will fail the class. Depending on the severity of the violation, the university may impose additional penalties, including suspension and even expulsion in rare cases.
